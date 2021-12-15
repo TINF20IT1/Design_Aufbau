@@ -18,5 +18,12 @@
 - Sprites
     - Easy scene creation
 
+## Ideen Pixel Art
+--------------------
+- Größenverhältnis Figur zu Hintergrund
+- Hintergrund höhere Auflösung
+- Wiederholende Elemente leichter darzustellen
+- flüssige Übergänge in den Levels
+
 --------------------
 Source: https://blog.felgo.com/game-resources/make-pixel-art-online

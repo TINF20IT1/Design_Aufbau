@@ -16,7 +16,13 @@ In diesem Repository sind die Loading-, Start- und Settings-Screens sowie Hinter
   - Hintergrund: Sterne, Galaxie, Trümmerfeld, Planeeten, Ringe
   - Vordergrund: Raumstation mit Charakteren die schon dem Spiel beigetreten sind (vordefinierte Standorte für Spieler)
   - Buttons: weißer Rand, weiße Schrift, semi- oder volltransparente Fenster
-3. 
+
+## Todo #
+- Level: Raumstation, Mars
+- Jeweils Sprites für Untergrundgenerierung (15 Stück mit 16px)
+- Sprites für Hindernisse (Typen: Barrikaden zum Überspringen, Töten bei Berührung, (Verlangsamen?))
+- Raumstation: Metallkisten, Sicherungskasten, Gasleitungen, (ausgelaufene Tanks), Metalluntergrund
+- Mars: Anhöhen, Stacheln, (Treibsand), Sanduntergrund
 
 ## Tools #
 

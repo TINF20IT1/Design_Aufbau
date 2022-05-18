@@ -19,7 +19,7 @@ In diesem Repository sind die Loading-, Start- und Settings-Screens sowie Hinter
 
 ## Todo #
 - Level: Raumstation, Mars
-- Jeweils Sprites für Untergrundgenerierung (15 Stück mit 16px)
+- (done)Jeweils Sprites für Untergrundgenerierung (15 Stück mit 16px)
 - Sprites für Hindernisse (Typen: Barrikaden zum Überspringen, Töten bei Berührung, (Verlangsamen?))
 - Raumstation: Metallkisten, Sicherungskasten, Gasleitungen, (ausgelaufene Tanks), Metalluntergrund
 - Mars: Anhöhen, Stacheln, (Treibsand), Sanduntergrund
